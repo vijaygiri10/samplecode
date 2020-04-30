@@ -1,0 +1,26 @@
+Environment:
+    development:
+        port:   '5050'
+        project_id: 'jetsend'
+        log_name: 'opens'
+        pixel_image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif'
+    production:
+        port:   '5050'
+        project_id: 'jetsend'
+        log_name: 'opens'
+        pixel_image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif'
+    uat:
+        port:   '5050'
+        project_id: 'jetsend'
+        log_name: 'opens'
+        pixel_image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif'
+    sandbox:
+        port:   '5050'
+        project_id: 'jetsend'
+        log_name: 'opens'
+        pixel_image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif'
+    staging:
+        port:   '5050'
+        project_id: 'jetsend'
+        log_name: 'opens'  
+        pixel_image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif'      

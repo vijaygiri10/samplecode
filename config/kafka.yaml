@@ -1,0 +1,27 @@
+Environment:
+    development:
+        event_topic: 'jetsend_development_events'
+        brokers:
+            - kafka1:19092
+    production:
+        event_topic: 'jetsend_production_events'
+        brokers:
+            - 10.128.0.24:9092
+            - 10.128.0.25:9092
+            - 10.128.0.26:9092
+    uat:
+        event_topic: 'jetsend_uat_events'
+        brokers:
+            - 10.128.0.24:9092
+            - 10.128.0.25:9092
+            - 10.128.0.26:9092
+    sandbox:
+        event_topic: 'jetsend_sandbox_events'
+        brokers:
+            - 10.128.0.24:9092
+            - 10.128.0.25:9092
+            - 10.128.0.26:9092
+    staging:
+        event_topic: 'jetsend_staging_events'
+        brokers:
+            - localhost:9092

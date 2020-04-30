@@ -1,0 +1,22 @@
+Environment:
+        development:
+                url: 'http://sandbox.jetsend.com:5050/a/maropost/open/'
+                token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpveS5tYXp1bWRhckBtYXJvcG9zdC5jb20iLCJmaXJzdG5hbWUiOiIiLCJsYXN0bmFtZSI6IiIsImFjY291bnRJRCI6Im1hcm9wb3N0LWFjY291bnQiLCJleHAiOjE2MTY1ODk2MzAsImlhdCI6MTU4NTA1MzYzMCwiaXNzIjoibWFyb3Bvc3QtcmVsYXkifQ.F8r43EQbiPsqHbvn-dGjx7pKi5GEMnvwZRfrWvozUAyoD9Ksi3YgjAbPZZTvCOtT-nAmZyIC_mf7QijiHfl9Hfp4zsi922PyNmFXaY7q0P0QcpdQSJXi1ntB9aV14dk14onlMV0wVNCs7ikkkcDVmC2fL39oZzxjUATG0OiojDWwDO7njjPfVmlhsBsUquHEhI5PK_IU-3hkvkkpJS2scz7DDwc0hsM8Gkzwbsv9xu8CKH9oUQUGbMK_EivEMN_5YKhdkhQX_ZHXNAfsjRjbBT4up4RZRg-n_WgjYPlkPjxKFj_xTBeL6KliRSPODv8diCcQloVjAC48ffWbUxRgIQ
+                message_id: bf4bebef-5c2d-419e-859b-3cb737ca309b
+                security_key: b1b8c7bcf3f61f4cefdd88b25168281f6f9311bdf16bf61adbcfd81a1b5b54c2
+        uat:
+                url: 'http://sandbox.jetsend.com:5050/a/maropost/open/'
+                token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpveS5tYXp1bWRhckBtYXJvcG9zdC5jb20iLCJmaXJzdG5hbWUiOiIiLCJsYXN0bmFtZSI6IiIsImFjY291bnRJRCI6Im1hcm9wb3N0LWFjY291bnQiLCJleHAiOjE2MTY1ODk2MzAsImlhdCI6MTU4NTA1MzYzMCwiaXNzIjoibWFyb3Bvc3QtcmVsYXkifQ.F8r43EQbiPsqHbvn-dGjx7pKi5GEMnvwZRfrWvozUAyoD9Ksi3YgjAbPZZTvCOtT-nAmZyIC_mf7QijiHfl9Hfp4zsi922PyNmFXaY7q0P0QcpdQSJXi1ntB9aV14dk14onlMV0wVNCs7ikkkcDVmC2fL39oZzxjUATG0OiojDWwDO7njjPfVmlhsBsUquHEhI5PK_IU-3hkvkkpJS2scz7DDwc0hsM8Gkzwbsv9xu8CKH9oUQUGbMK_EivEMN_5YKhdkhQX_ZHXNAfsjRjbBT4up4RZRg-n_WgjYPlkPjxKFj_xTBeL6KliRSPODv8diCcQloVjAC48ffWbUxRgIQ
+                message_id: bf4bebef-5c2d-419e-859b-3cb737ca309b
+                security_key: b1b8c7bcf3f61f4cefdd88b25168281f6f9311bdf16bf61adbcfd81a1b5b54c2
+        production:
+                url: 'http://sandbox.jetsend.com:5050/a/maropost/open/'
+                token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpveS5tYXp1bWRhckBtYXJvcG9zdC5jb20iLCJmaXJzdG5hbWUiOiIiLCJsYXN0bmFtZSI6IiIsImFjY291bnRJRCI6Im1hcm9wb3N0LWFjY291bnQiLCJleHAiOjE2MTY1ODk2MzAsImlhdCI6MTU4NTA1MzYzMCwiaXNzIjoibWFyb3Bvc3QtcmVsYXkifQ.F8r43EQbiPsqHbvn-dGjx7pKi5GEMnvwZRfrWvozUAyoD9Ksi3YgjAbPZZTvCOtT-nAmZyIC_mf7QijiHfl9Hfp4zsi922PyNmFXaY7q0P0QcpdQSJXi1ntB9aV14dk14onlMV0wVNCs7ikkkcDVmC2fL39oZzxjUATG0OiojDWwDO7njjPfVmlhsBsUquHEhI5PK_IU-3hkvkkpJS2scz7DDwc0hsM8Gkzwbsv9xu8CKH9oUQUGbMK_EivEMN_5YKhdkhQX_ZHXNAfsjRjbBT4up4RZRg-n_WgjYPlkPjxKFj_xTBeL6KliRSPODv8diCcQloVjAC48ffWbUxRgIQ
+                message_id: bf4bebef-5c2d-419e-859b-3cb737ca309b
+                security_key: b1b8c7bcf3f61f4cefdd88b25168281f6f9311bdf16bf61adbcfd81a1b5b54c2
+        sandbox:
+                url: 'http://sandbox.jetsend.com:5050/a/maropost/open/'
+                token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpveS5tYXp1bWRhckBtYXJvcG9zdC5jb20iLCJmaXJzdG5hbWUiOiIiLCJsYXN0bmFtZSI6IiIsImFjY291bnRJRCI6Im1hcm9wb3N0LWFjY291bnQiLCJleHAiOjE2MTY1ODk2MzAsImlhdCI6MTU4NTA1MzYzMCwiaXNzIjoibWFyb3Bvc3QtcmVsYXkifQ.F8r43EQbiPsqHbvn-dGjx7pKi5GEMnvwZRfrWvozUAyoD9Ksi3YgjAbPZZTvCOtT-nAmZyIC_mf7QijiHfl9Hfp4zsi922PyNmFXaY7q0P0QcpdQSJXi1ntB9aV14dk14onlMV0wVNCs7ikkkcDVmC2fL39oZzxjUATG0OiojDWwDO7njjPfVmlhsBsUquHEhI5PK_IU-3hkvkkpJS2scz7DDwc0hsM8Gkzwbsv9xu8CKH9oUQUGbMK_EivEMN_5YKhdkhQX_ZHXNAfsjRjbBT4up4RZRg-n_WgjYPlkPjxKFj_xTBeL6KliRSPODv8diCcQloVjAC48ffWbUxRgIQ
+                message_id: bf4bebef-5c2d-419e-859b-3cb737ca309b
+                security_key: b1b8c7bcf3f61f4cefdd88b25168281f6f9311bdf16bf61adbcfd81a1b5b54c2
+          
